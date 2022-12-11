@@ -1,5 +1,5 @@
 import random
-words=['python','java','ruby','virat']
+words=['python','dhoni','rohit','virat']
 word = random.choice(words)
 guesses=''
 count=4
